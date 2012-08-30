@@ -1,0 +1,6 @@
+[
+    {"command": "expand_selection", "args": {"to": "line"}},
+    {"command": "copy"},
+    {"command": "paste"},    
+    {"command": "paste"}
+]
